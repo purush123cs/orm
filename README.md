@@ -1,1 +1,1 @@
-# orm
+# Run in Mac using ./gradlew bootRun
